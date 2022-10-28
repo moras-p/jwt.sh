@@ -1,0 +1,2 @@
+# jwt.sh
+Generate JWT 
